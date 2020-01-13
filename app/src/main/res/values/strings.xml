@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FingerprintTest</string>
+    <string name="fingerprint_not_recognized">指纹识别失败，请重试！</string>
+    <string name="fingerprint_success">指纹识别成功</string>
+    <string name="fingerprint_hint">请将手指放于指纹传感器上</string>
+
+</resources>
